@@ -1,6 +1,7 @@
 # EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD
 
-## Aim: To Interface a Digital Input  (userpush button  ) to ARM   development board and write a  program to obtain  the data and flash the led  
+## Aim: 
+To Interface a Digital Input  (userpush button  ) to ARM   development board and write a  program to obtain  the data and flash the led  
 
 ## Components required: STM32 CUBE IDE, ARM IOT development board,  STM programmer tool.
 
@@ -164,4 +165,5 @@ void assert_failed(uint8_t *file, uint32_t line)
  ![6d0866a3-97ff-4dbf-8c55-aef84f236319](https://github.com/user-attachments/assets/bc55dbc4-07bf-4d75-8a74-3b1f4e970466)
 
 ## Result :
+
 Interfacing a digital Input (Pushbutton ) with ARM microcontroller based IOT development is executed and the results are verified.
