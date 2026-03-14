@@ -160,9 +160,12 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output  :
 
+ ![6d0866a3-97ff-4dbf-8c55-aef84f236319](https://github.com/user-attachments/assets/bc55dbc4-07bf-4d75-8a74-3b1f4e970466)
+ 
  ![390fc597-8e6d-4cbf-a4d5-d238b1e12d9d](https://github.com/user-attachments/assets/d7f4222d-311a-4bef-b938-43da1ce8f546)
 
- ![6d0866a3-97ff-4dbf-8c55-aef84f236319](https://github.com/user-attachments/assets/bc55dbc4-07bf-4d75-8a74-3b1f4e970466)
+## Layout of the circuit :
+
 
 ## Result :
 
